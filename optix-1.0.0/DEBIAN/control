@@ -3,6 +3,6 @@ Version: 1.0.0
 Architecture: all
 Maintainer: Levi Hicks <firetechcto@gmail.com>
 Depends: python
-Installed-Size: 6418
+Installed-Size: in_kb
 Homepage: http://optix-llc.com
 Description: Optix Server Installer
