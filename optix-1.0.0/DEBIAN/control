@@ -2,7 +2,7 @@ Package: Optix
 Version: 1.0.0
 Architecture: all
 Maintainer: Levi Hicks <firetechcto@gmail.com>
-Depends: etc
-Installed-Size: 1024
+Depends: python
+Installed-Size: 6418
 Homepage: http://optix-llc.com
 Description: Optix Server Installer
