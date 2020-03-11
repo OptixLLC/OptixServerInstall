@@ -1,0 +1,6 @@
+#!/bin/bash
+
+MACHINE_TYPE=`sed -n 3p /etc/os-release`
+if [ ${MACHINE_TYPE} == 'ID=ubuntu' ]; then
+  echo Hi
+fi

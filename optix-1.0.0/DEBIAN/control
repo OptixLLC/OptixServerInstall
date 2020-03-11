@@ -1,0 +1,8 @@
+Package: Optix
+Version: 1.0.0
+Architecture: all
+Maintainer: Levi Hicks <firetechcto@gmail.com>
+Depends: none
+Installed-Size: 1024
+Homepage: http://optix-llc.com
+Description: Optix Server Installer
