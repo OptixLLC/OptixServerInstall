@@ -4,5 +4,6 @@ Architecture: all
 Maintainer: Levi Hicks <firetechcto@gmail.com>
 Depends: python
 Installed-Size: in_kb
-Homepage: http://optix-llc.com
+Homepage: http://optix-llc.com/
 Description: Optix Server Installer
+  Optix official server setup package!
